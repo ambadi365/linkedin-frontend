@@ -1,0 +1,7 @@
+{
+  "name": "linledin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
